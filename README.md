@@ -20,15 +20,15 @@ Loan data – The level of data is at loan ID level. If a person borrowed a loan
 
 •	On first impressions we see that the classes are imbalanced. We have 13.8% of charged off loans compared to 86.2% of fully paid loans.
 
-<img width="192" alt="image" src="https://user-images.githubusercontent.com/99356847/204199112-0272a2ef-cc86-4a77-a31c-d241929bd5b0.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/99356847/204199112-0272a2ef-cc86-4a77-a31c-d241929bd5b0.png">
 
 •	The loans are divided into grades (A-G) with the best interest rate being offered on the A category of the loan and the worst being offered at G.
 
-<img width="290" alt="image" src="https://user-images.githubusercontent.com/99356847/204199151-5741f790-a34e-4f1b-846a-16c60e269267.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/99356847/204199151-5741f790-a34e-4f1b-846a-16c60e269267.png">
 
 •	We find that the majority of loans are given for the purpose of debt consolidation which we know is a common occurrence because majority of people have different kind of loans that they are paying such as car, home, credit card etc so to have them under one bracket would be highly beneficial for the ease of paying back multiple loans. 
 
-<img width="267" alt="image" src="https://user-images.githubusercontent.com/99356847/204199200-9d075cc6-3cd1-4a47-8549-99e2402a23d9.png">
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/99356847/204199200-9d075cc6-3cd1-4a47-8549-99e2402a23d9.png">
 
 •	We also noticed that the majority of features have missing values. Such features can be removed in further prediction tasks as they would not be beneficial to the model
 
