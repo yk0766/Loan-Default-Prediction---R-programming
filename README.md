@@ -34,7 +34,7 @@ Loan data – The level of data is at loan ID level. If a person borrowed a loan
 
 •	We also detected some outliers and removed them such that not much of the data is lost
 
-Model Development and Evaluation
+## Model Development and Evaluation
 
 We have taken a few different approaches to design the best investment strategies for investors.
 
@@ -59,7 +59,8 @@ Best Model -GBM with highest specificity
 Best Model – Random Forest with lowest MSE
 
 
-Conclusion
+## Conclusion
+
 Investors are hesitant to invest in lower grade loans which can yield high returns with high risk. We can minimize the risk factor by predicting lower grade loans that are less likely to default while also giving high returns.
 
 
