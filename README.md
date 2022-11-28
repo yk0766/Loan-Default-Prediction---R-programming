@@ -42,9 +42,9 @@ We have taken a few different approaches to design the best investment strategie
 
        • Decision Tree
 
-       • GLM (Regression)
+       • GLM (Classification)
 
-       • Random Forest Regression
+       • Random Forest Classification
 
        • GBM
 
