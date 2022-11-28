@@ -40,21 +40,21 @@ We have taken a few different approaches to design the best investment strategie
 
 1. Classification models to predict default risk
 
-       •	Decision Tree
+       • Decision Tree
 
-       •	GLM (Regression)
+       • GLM (Regression)
 
-       •	Random Forest Regression
+       • Random Forest Regression
 
-       •	GBM
+       • GBM
 
    Best Model -GBM with highest specificity
 
 2.	Regression models to predict annual returns
 
-       •	GLM
+         • GLM
 
-       •	Random Forest Regression
+         • Random Forest Regression
 
    Best Model – Random Forest with lowest MSE
 
