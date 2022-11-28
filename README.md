@@ -48,7 +48,7 @@ We have taken a few different approaches to design the best investment strategie
 
        • GBM
 
-   Best Model -GBM with highest specificity
+    Best Model -GBM with highest specificity
 
 2.	Regression models to predict annual returns
 
