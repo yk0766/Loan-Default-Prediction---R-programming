@@ -20,7 +20,7 @@ Loan data – The level of data is at loan ID level. If a person borrowed a loan
 
 •	On first impressions we see that the classes are imbalanced. We have 13.8% of charged off loans compared to 86.2% of fully paid loans.
 
-<img width="5000" alt="image" src="https://user-images.githubusercontent.com/99356847/204199112-0272a2ef-cc86-4a77-a31c-d241929bd5b0.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/99356847/204199112-0272a2ef-cc86-4a77-a31c-d241929bd5b0.png">
 
 •	The loans are divided into grades (A-G) with the best interest rate being offered on the A category of the loan and the worst being offered at G.
 
@@ -40,23 +40,23 @@ We have taken a few different approaches to design the best investment strategie
 
 1. Classification models to predict default risk
 
-•	Decision Tree
+       •	Decision Tree
 
-•	GLM (Regression)
+       •	GLM (Regression)
 
-•	Random Forest Regression
+       •	Random Forest Regression
 
-•	GBM
+       •	GBM
 
-Best Model -GBM with highest specificity
+   Best Model -GBM with highest specificity
 
 2.	Regression models to predict annual returns
 
-•	GLM
+       •	GLM
 
-•	Random Forest Regression
+       •	Random Forest Regression
 
-Best Model – Random Forest with lowest MSE
+   Best Model – Random Forest with lowest MSE
 
 
 ## Conclusion
