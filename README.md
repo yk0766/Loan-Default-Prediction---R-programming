@@ -50,13 +50,13 @@ We have taken a few different approaches to design the best investment strategie
 
     Best Model -GBM with highest specificity
 
-2.	Regression models to predict annual returns
+2.  Regression models to predict annual returns
 
          • GLM
 
          • Random Forest Regression
 
-   Best Model – Random Forest with lowest MSE
+    Best Model – Random Forest with lowest MSE
 
 
 ## Conclusion
